@@ -22,3 +22,4 @@ It can guide you build the static binary step by step.
 
 ## it is use the newest version ( git version ) from the [origin redis branch](https://github.com/redis/redis)
 
+(rename to PrivLocking )

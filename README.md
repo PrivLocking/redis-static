@@ -7,7 +7,7 @@ server is about 4.1M bytes.
 
 client is about 1.4M bytes.
 
-you can download the binaray in the bin/ directory.
+you can download the binaray in my [bin/ directory](https://github.com/jjj123wetalk/redis-static/tree/main/bin).
 
 They are static build and in most case you can run it anywhere.
 
